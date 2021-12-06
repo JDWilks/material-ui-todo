@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "Learn More about UI/UX",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Get a job in a creative studio!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took ",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "AR Spark",
+      "details": "Figure out how to get the bloody game on facebook !",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "Take out trash",
+      "details": "do it on tuesday morning before 8 am",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "Check bitcoin",
+      "details": "Across all exchanges",
+      "category": "money",
+      "id": 7
+    },
+    {
+      "title": "Pay the water bill",
+      "details": "Before the 12th of we get cut off !",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "Kimberley",
+      "details": "Tell Kimberley you LOVE her more ❤️",
+      "category": "reminders",
+      "id": 10
+    },
+    {
+      "title": "Do Plank",
+      "details": "Do at least 3 x plank exercises today",
+      "category": "todos",
+      "id": 12
+    },
+    {
+      "title": "Sleep more ",
+      "details": "Sleep long in bed with kimberley",
+      "category": "reminders",
+      "id": 13
+    }
+  ]
+}
